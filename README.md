@@ -17,7 +17,7 @@ O objetivo é demonstrar, de forma prática, como aplicar fórmulas DAX, visuali
 
 ## 🖼️ Visualização do Dashboard
 
-![Dashboard de Acidentes](./images/dashboard-acidentes.png)
+![Dashboard de Acidentes](./imagem/dashboard-acidentes.png)
 
 ---
 
