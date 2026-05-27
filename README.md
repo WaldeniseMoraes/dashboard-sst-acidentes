@@ -114,7 +114,7 @@ SWITCH(
 ---
 
 ## 🧪 Base de Dados Simulada
-A base `cat_simulado_100func.csv` foi criada via Python para simular cenários realistas, incluindo:
+A base [cat_simulado_100func.csv](https://github.com/WaldeniseMoraes/dashboard-sst-acidentes/tree/main/dataset) foi criada via Python para simular cenários realistas, incluindo:
 - Idade
 - Tipo de acidente (Típico, Trajeto, Doença Ocupacional)
 - Fatalidade (0/1)
