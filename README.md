@@ -124,7 +124,7 @@ A base [cat_simulado_100func.csv](https://github.com/WaldeniseMoraes/dashboard-s
 ---
 
 ## 📌 Como Usar
-1. Baixe o arquivo [dashboard_sst.pbix]https://github.com/WaldeniseMoraes/dashboard-sst-acidentes/tree/main/dashboard e [cat_simulado_100func.csv](https://github.com/WaldeniseMoraes/dashboard-sst-acidentes/tree/main/dataset)
+1. Baixe o arquivo [dashboard_sst.pbix](https://github.com/WaldeniseMoraes/dashboard-sst-acidentes/tree/main/dashboard) e [cat_simulado_100func.csv](https://github.com/WaldeniseMoraes/dashboard-sst-acidentes/tree/main/dataset)
 2. Abra o Power BI Desktop.
 3. Importe o CSV.
 4. Copie e cole as fórmulas DAX acima.
